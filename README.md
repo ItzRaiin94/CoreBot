@@ -9,3 +9,4 @@ It can:
 - Manage its inventory.
 
 Use the bot by clicking on the "CoreBot ⭐ Alpha Build 5 (Hail).ink" file after editing the "config.json" to your liking.
+Feel free to fork and edit to your liking. Please don't try to profit off of the creation, it's not fully yours if you reupload it.
