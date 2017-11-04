@@ -1,4 +1,5 @@
 # CoreBot
+[IMPORTANT - INSTALL NODE AT https://nodejs.org/]  
 CoreBot is a minecraft companion bot using the "mineflayer", "mineflayer-navigate", "readline" and "fs" APIs and their dependencies. 
 It can:
 - Talk in chat,
