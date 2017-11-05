@@ -291,3 +291,5 @@ bot.on('death', function() {
     clearInterval(attoutId)
     bot.navigate.stop();
 });
+
+//End of code file//
